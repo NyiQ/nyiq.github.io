@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>互联网中的高质量信息快速获取方法</title>
+    <url>/2023/12/01/information-quality/</url>
+    <content><![CDATA[<p>高质量信息获取。</p>
+<p>宋立荣与李思经, 从数据质量到信息质量的发展. 情报科学, 2010. 28(2): 第182-186页.</p>
+<p>刘剑勇. 我国数据与信息质量现状分析[J]. 情报科学, 2010 (2): 187-189.</p>
+<ul>
+<li>信息科学和计算机科学的区别？</li>
+</ul>
+]]></content>
+  </entry>
+  <entry>
     <title>工具迷思</title>
     <url>/2023/11/26/tool-thinking/</url>
     <content><![CDATA[<p>今天下载了OneMore插件，初步使用体验良好。了解并采纳了别人使用onenote的一些方法，比如日记的记法、设置大纲。此次使用OneNote又让我陷入了工具迷思，眼花缭乱的插件究竟该如何取舍？插件付费一定比免费好嘛？倒腾工具的周期到底如何界定？</p>
@@ -68,5 +79,36 @@
       <categories>
         <category>tanslations</category>
       </categories>
+  </entry>
+  <entry>
+    <title>writing-style-guide</title>
+    <url>/2023/12/03/writing-style-guide/</url>
+    <content><![CDATA[<div class="note info"><p>你好，我是info</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% note info %&#125;</span><br><span class="line">你好，我是info</span><br><span class="line">&#123;% endnote %&#125;</span><br></pre></td></tr></table></figure>
+</div>
+
+<details class="note danger no-icon"><summary><p>DANGER</p>
+</summary>
+<p>你好，我是danger</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% note [class] [no-icon] [summary] %&#125;</span><br><span class="line">Any content (support inline tags too).</span><br><span class="line">class 是note的级别，可以是info, warning, danger, success, default</span><br><span class="line">no-icon 是是否显示图标，如果不写，就显示图标，如果写了，就不显示图标</span><br><span class="line">summary 是note的标题</span><br><span class="line">&#123;% endnote %&#125;</span><br></pre></td></tr></table></figure>
+
+</details>
+
+<div class="note warning"><p>你好，我是warning</p>
+</div>
+
+<div class="note success"><p>你好，我是success</p>
+</div>
+
+<div class="note default"><p>你好，我是default</p>
+</div>
+
+<blockquote class="blockquote-center">
+<p>为天地立心，为生民立命，为往圣继绝学，为万世开太平 </p>
+
+</blockquote>
+
+<div class="tabs" id="fourth-unique-name"><ul class="nav-tabs"><li class="tab active"><a href="#fourth-unique-name-1">Solution 1</a></li><li class="tab"><a href="#fourth-unique-name-2">Solution 2</a></li><li class="tab"><a href="#fourth-unique-name-3">解决方案 三</a></li></ul><div class="tab-content"><div class="tab-pane active" id="fourth-unique-name-1"><p><strong>This is Tab 1.</strong></p></div><div class="tab-pane" id="fourth-unique-name-2"><p><strong>This is Tab 2.</strong></p></div><div class="tab-pane" id="fourth-unique-name-3"><p><strong>This is Tab 3.</strong></p></div></div></div>
+]]></content>
   </entry>
 </search>
