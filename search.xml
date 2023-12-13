@@ -1,27 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>互联网中的高质量信息快速获取方法</title>
-    <url>/2023/12/01/information-quality/</url>
-    <content><![CDATA[<p>高质量信息获取。</p>
-<p>宋立荣与李思经, 从数据质量到信息质量的发展. 情报科学, 2010. 28(2): 第182-186页.</p>
-<p>刘剑勇. 我国数据与信息质量现状分析[J]. 情报科学, 2010 (2): 187-189.</p>
-<ul>
-<li>信息科学和计算机科学的区别？</li>
-</ul>
-]]></content>
-  </entry>
-  <entry>
     <title>工具迷思</title>
-    <url>/2023/11/26/tool-thinking/</url>
-    <content><![CDATA[<p>今天下载了OneMore插件，初步使用体验良好。了解并采纳了别人使用onenote的一些方法，比如日记的记法、设置大纲。此次使用OneNote又让我陷入了工具迷思，眼花缭乱的插件究竟该如何取舍？插件付费一定比免费好嘛？倒腾工具的周期到底如何界定？</p>
+    <url>/2023/11/26/20231213tool-thinking/</url>
+    <content><![CDATA[<div class="note default"><p>1-个人日常信息整理原则分享<br>2-标准化考试学习对策经验总结</p>
+</div>
+
+<span id="more"></span>
+
+<p>今天下载了OneMore插件，初步使用体验良好。了解并采纳了别人使用onenote的一些方法，比如日记的记法、设置大纲。此次使用OneNote又让我陷入了工具迷思，眼花缭乱的插件究竟该如何取舍？插件付费一定比免费好嘛？倒腾工具的周期到底如何界定？</p>
 <p>最近整个大学的体验又回来了，我发现当时困扰我的一些烦恼，现在又萦绕在我身边，我能够感受到如果我没有取得一些真正的突破的话，这些问题将会在不远的未来重复出现，直到我能应付它为止。</p>
 <p>一个是知识信息的管理，目前无法形成稳定的流程结构。此外无论是针对学习还是工具的使用我都希望能有一个一劳永逸的方案，让我不必再纠结于此，可是太多的工具和方法论让我无从选择。另一个是对于学习的流程与阶段，究竟该如何划分。今天我想在这里自我分辨，得出一个让自己现阶段满意的结果。</p>
 <blockquote>
 <p>问题<br>1-如何整理知识信息？<br>2-如何搭建应对标准化考试的学习对策？以高分为导向。</p>
 </blockquote>
-<span id="more"></span>
-
 <h1 id="1-如何整理知识信息？"><a href="#1-如何整理知识信息？" class="headerlink" title="1-如何整理知识信息？"></a>1-如何整理知识信息？</h1><p>一切从实际出发，所以知识信息的整理要以使用为主导，不好用的信息整理的再花里胡哨也只剩下了审美价值。</p>
 <p>由于一切要以使用、产出为主导，所以针对知识信息的整理要分专题、分任务、分阶段。分专题就是根据信息的特性，把相同专题的信息整理到一起，不同专题的信息装在一起会使得跳跃过大，浪费精力也浪费查找的时间。分任务就是根据实践的特性，把不同的任务要设立不同的区块，如果把不同的任务都采用一种方法去对待就无法更好的适应每个任务的特点，导致对行动的阻碍。分阶段就是根据时间的特性，每个阶段干每个阶段的事，不要干着这个阶段就非要去想别的阶段，这会把一切都捣成浆糊。接下来我会对以上三点的具体操作进行详细阐述。</p>
 <p>实践摆在第一位，所以首先要分任务：工作、生活、学业这三点要分开，因为它们的产出要求是不同的。</p>
@@ -44,71 +36,44 @@
       </categories>
   </entry>
   <entry>
-    <title>翻译 | 十分钟内掌握版式设计</title>
-    <url>/2023/11/28/translation-typography-in-ten-minutes/</url>
-    <content><![CDATA[<p>原标题：<a href="https://practicaltypography.com/typography-in-ten-minutes.html">Typography in ten minutes</a></p>
-<p>作者：马修·巴特里克（<a href="https://practicaltypography.com/about-matthew-butterick.html">Matthew Butterick</a>）</p>
-<p>我有个尽管大胆但自己很认同的主张：如果你学了并遵守下文的五条排版规则，你的排版能力将会比几乎任一作家都更好，甚至会超过很多平面设计师。</p>
-<p>而达成这一切只需十分钟：用五分钟读完这些规则，用剩下的五分钟再读一遍。</p>
-<p>准备好了吗？来吧。<span id="more"></span></p>
-<ol>
-<li><p><strong>正文版式</strong>很大程度上决定了你的文档的排版质量。为什么？因为正文所占篇幅比其他任何部分都大。所以开始任何项目的时候都先考虑让正文看起来不错，然后再操心剩下的。</p>
-</li>
-<li><p>关心<strong>字体大小</strong>（Point Size）。在印刷中，正文最舒适的范围在<strong>10-12</strong>点（point），在网上，则是<strong>15-25</strong>像素（pixel）。在给定数值的情况下，每种字体并非都是一样大小，所以准备好在必要的时候做出调整。</p>
-</li>
-<li><p>关心<strong>行距</strong>（Line Spacing），行与行之间的垂直距离。行距应该被设置成字体大小的**120-145%**。在文字处理机中，可以使用“精确”的行距选项来完成这点。默认的单倍行距太紧凑了，1.5倍行距又太松散。在CSS中，可以使用行高（line-height）属性（推荐用没有单位的数值，所以130%应该写成1.3）。</p>
-</li>
-<li><p>关心<strong>行宽</strong>（Line Length），文本块的横向宽度。每一行的字数的平均值应该是45-90个字母（使用你的计数功能）或者2-3个小写字母表，像这样：</p>
-<p>abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz</p>
-<p>在一个印刷文档中，这通常意味着页边距要大于一英寸（打字机时代的习惯）。在一个网页中，这通常意味着要防止文本靠近浏览器窗口的边缘。</p>
-</li>
-<li><p>最后一件事就是选择<strong>字体</strong>。对于排版，你能做的最快、最简单以及最肉眼可见的进步就是忘记电脑上已经存在的字体（通常被叫做系统字体）以及在互联网上泛滥的免费字体。反之，购买一个专业字体（就像我在<a href="https://practicaltypography.com/font-recommendations.html">字体推荐</a>中提供的那些）。一个专业字体能够使你享受专业设计师的技巧而不用专门雇佣他。</p>
-<p>如果可能的话，你仍然可以使用系统字体来做一个不错的排版。但请聪明地选择。并且永远不要选择 TIMES NEW ROMAN 或者 ARIAL 字体，因为这些字体只被那些对排版冷漠的或者懒得排版的人选择，而不是版式设计师，更不是你。</p>
-</li>
-</ol>
-<p>就这些。当你运用这五条规则的时候，你将会注意到你的文档看起来开始看起来更像专业出版的材料了。</p>
-<p>如果你准备再多了解一些，试试<a href="https://practicaltypography.com/summary-of-key-rules.html">《关键规则的总结》</a>。</p>
-<p>如果你准备深入探索，那就从<a href="https://practicaltypography.com/foreword.html">序言</a>开始，继续阅读吧。</p>
-<hr>
-<p>译者说：</p>
-<p>本文是《巴特里克的实用排版设计》(Butterick’s Practical Typography)的第一篇文章。这篇短文介绍了一篇文章最重要的五项排版关注点：正文版式、字体大小、行高、行宽以及字体选择。</p>
-<p>马修的行文风格活泼，且言之有物，这正是我选择翻译他文章的重要原因。此外，作为一名版式设计师，他的每一篇站内文章的排版都由本人精心设计，即其文章形式也是一个重要组成部分，而笔者目前无法很好地传递这种视觉体验。</p>
-<p>以下附件为原文打印，供无法进入原网址的读者阅览。</p>
-<p><a href="./script.pdf">原件查看</a></p>
+    <title>网络时代的写作工具</title>
+    <url>/2023/11/29/writing-tools-in-the-time-of-web/</url>
+    <content><![CDATA[<div class="note default"><p>网络时代写作工具的特性：公共性、时效性、极化。</p>
+</div><span id="more"></span>
+
+<p>写作材质与写作方式的对应：</p>
+<ul>
+<li>石头石板竹简-刻、</li>
+<li>牛羊皮丝绸纸-写、</li>
+<li>电子设备-打字。</li>
+</ul>
+<p>打字时代的艺术？</p>
+<ul>
+<li>打字时代已经抛弃了对字型的掌控？以往想要获得某一字体需要长久的刻意练习，但如今已经将这种学习成本远远地降至0。困难的是发展的空间。对于练习习得字体的人来说他们会在长久的练习与思考中无意形成自己的一套独特风格。但在当今的电脑打字时代已经无法用字体来识别人的风格，且即便在大量打字下也没有带来更多的附加价值，人获得的只是文章内容而已。因此，对形式的掌握被无限降低，对人的观点的识别变得异常重要。过于平庸的想法已经变得让人难以接受了。网络时代强调你的内容展现，如果内容不够有吸引力，那么文本本身的价值会被直接归零消失。这是一场更残酷的生存斗争，普通人被遗忘的更快了。</li>
+<li></li>
+</ul>
+<p>顺应网络时代出现的独特写作工具：</p>
+<ul>
+<li>markdown语法：这种通过简单符号规则来方便排版的工具被人们广泛使用。这种排版让人们更方便的做出一个还不错的排版，它提升了人们组织文本的意识。但也同时消磨了个性，人们的个性需要通过已经设定好的模板展现，而非以往的个人创造。</li>
+</ul>
+<p>上网究竟有没有伤害到我们的思考能力？</p>
+<ul>
+<li>上网实际上是一个浏览行为，这种浏览行为并不能取代深度思考。但如果没有意识到这二者的区别而将其混淆，则会在不经意间导致思考的极度匮乏。于是上网就成为了一种对人的极大损耗，而非滋养。</li>
+</ul>
+<p>什么职业会消失？</p>
+<ul>
+<li>AI好像能够取消人类的存在意义了，甚至于创造AI的那位导师和他的徒弟都变成了AI的极力阻止者，叫嚣着AI会毁灭人类。首先，我的意见是如果真的到了那么一天，AI能够毁灭人类了，人类的讨论是没有意义的。一位屠夫打算宰羊是羊能决定的吗？其次，魔盒已经打开，想要再合上是没有可能的，在巨大商业利益的驱动下，只要能做到的事都会被做的。这个讨论就像我回到了当初高中得知两个孩子基因编辑的事情一样。我们这些不掌控科学的人的讨论是没有决定性影响的。社会最重要的就是将科学交到可靠的人手里。科学是没有终极目的的，它只是一个工具，当今社会的问题难道不在于科学这一概念的滥用？科学，特别是应用科学必须思考的一个问题就是用来作什么。就如当今AI的讨论，最重要的就是限制AI训练材料的获取，AI反而激发了对关键技术以及隐私保护的重要讨论。</li>
+</ul>
+<p>系统的学习才是好的学习？</p>
+<ul>
+<li>现在很多人强调学一个东西要系统的学习。这世界上有那么多专业知识，系统学习是否真的有必要呢？如果我只是为了上台表演一个节目，为什么要系统的学习乐器呢？系统的学习是需要巨大成本的。包括时间、精力、金钱。并且，一上来就谈系统学习是否是一件更加不合算的事情呢？</li>
+<li>什么事情需要系统学习？只有你的专业需要系统学习，你的专业是什么？就是你日后要从事的工作。只有你的工作相关的知识才是最值得系统学习的，甚至于你的喜好都未必值得系统学习。你只需要凭借爱好去做就可以了。可是这世界上有那么多跟我们相关的事务，我们总是有很多关心的事，比如经济、政治、家具、买房子，照顾孩子，如此多有关的事情，难道要事事专业才有能做这件事的资格吗？并不是，你需要做的只是看三本公认的某个领域的经典书籍就可以了，了解该领域的基本概念，知道他们关心的问题，知道这个领域现在最好能做到什么地步就可以了。我们对很多事只要有着一个良好的基本认知，保证自己不犯低级的错误即可，如果自己一定不犯错那是不可能的，专业人士都会犯错。可是你只需要了解20%就可以解决大概80%的问题，这难道不是很划算吗？我需要再重复一遍，系统学习是要求大量成本的，你的时间、精力、金钱。</li>
+<li>所以，并不是对所有事情都系统学习才叫做好的学习，当然保持对万事万物的兴趣尽可能的了解是好的态度，但从操作层面来讲一定要有舍有得。我们要拥有系统学习的能力，然后选好自己打算深入的领域，而对其他只需泛泛了解的领域要培养自己管中窥豹的能力，以及清楚的明白自己想要的究竟是什么。可是现实是没什么逻辑的，你可能在某一天就突然接触到了自己想要深入的领域，既然这样那就顺其自然吧。多多探索也是好事。</li>
+</ul>
+<p>能力跟技巧是两码事：能力是学不来的，只能通过练习习得。</p>
 ]]></content>
       <categories>
-        <category>tanslations</category>
+        <category>essays</category>
       </categories>
-  </entry>
-  <entry>
-    <title>writing-style-guide</title>
-    <url>/2023/12/03/writing-style-guide/</url>
-    <content><![CDATA[<div class="note info"><p>你好，我是info</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% note info %&#125;</span><br><span class="line">你好，我是info</span><br><span class="line">&#123;% endnote %&#125;</span><br></pre></td></tr></table></figure>
-</div>
-
-<details class="note danger no-icon"><summary><p>DANGER</p>
-</summary>
-<p>你好，我是danger</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% note [class] [no-icon] [summary] %&#125;</span><br><span class="line">Any content (support inline tags too).</span><br><span class="line">class 是note的级别，可以是info, warning, danger, success, default</span><br><span class="line">no-icon 是是否显示图标，如果不写，就显示图标，如果写了，就不显示图标</span><br><span class="line">summary 是note的标题</span><br><span class="line">&#123;% endnote %&#125;</span><br></pre></td></tr></table></figure>
-
-</details>
-
-<div class="note warning"><p>你好，我是warning</p>
-</div>
-
-<div class="note success"><p>你好，我是success</p>
-</div>
-
-<div class="note default"><p>你好，我是default</p>
-</div>
-
-<blockquote class="blockquote-center">
-<p>为天地立心，为生民立命，为往圣继绝学，为万世开太平 </p>
-
-</blockquote>
-
-<div class="tabs" id="fourth-unique-name"><ul class="nav-tabs"><li class="tab active"><a href="#fourth-unique-name-1">Solution 1</a></li><li class="tab"><a href="#fourth-unique-name-2">Solution 2</a></li><li class="tab"><a href="#fourth-unique-name-3">解决方案 三</a></li></ul><div class="tab-content"><div class="tab-pane active" id="fourth-unique-name-1"><p><strong>This is Tab 1.</strong></p></div><div class="tab-pane" id="fourth-unique-name-2"><p><strong>This is Tab 2.</strong></p></div><div class="tab-pane" id="fourth-unique-name-3"><p><strong>This is Tab 3.</strong></p></div></div></div>
-]]></content>
   </entry>
 </search>
